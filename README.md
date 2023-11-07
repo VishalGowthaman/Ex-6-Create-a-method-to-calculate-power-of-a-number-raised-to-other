@@ -1,6 +1,10 @@
 # Ex-6 Create a method to calculate power of a number raised to other
 # program
 ```
+Developed By : Vishal Gowthaman K R
+Reg No : 212221230123
+```
+```
 public class PowerCalculator {
     public static void main(String[] args) {
         double base = 2.0;
